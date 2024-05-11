@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.56f5eff3.css",
+    "main.js": "/E-commerce/static/js/main.113e7167.js",
+    "static/js/453.7525acb4.chunk.js": "/E-commerce/static/js/453.7525acb4.chunk.js",
+    "static/media/j.jpg": "/E-commerce/static/media/j.a0ad85c9cee8852a8cf3.jpg",
+    "static/media/men7.jpg": "/E-commerce/static/media/men7.7969ace86787237179e6.jpg",
+    "static/media/u2.jpeg": "/E-commerce/static/media/u2.fc21722cacf1e63d4495.jpeg",
+    "static/media/shop.png": "/E-commerce/static/media/shop.067aa2b56b8d51411cd0.png",
+    "static/media/C4.png": "/E-commerce/static/media/C4.646a5f5f97ea19332b4f.png",
+    "static/media/beauti.jpg": "/E-commerce/static/media/beauti.490d6abfd2d49351ab87.jpg",
+    "static/media/star3.png": "/E-commerce/static/media/star3.773e5a9a0bd8666567ca.png",
+    "static/media/insta.png": "/E-commerce/static/media/insta.8ed79baab4f786513927.png",
+    "static/media/M1.png": "/E-commerce/static/media/M1.d6c25864ad4d6358495c.png",
+    "static/media/u3.jpg": "/E-commerce/static/media/u3.1257610b9063021b3010.jpg",
+    "static/media/p9.jpg": "/E-commerce/static/media/p9.a9ef5f10f8eb72ee5dcd.jpg",
+    "static/media/pin2.png": "/E-commerce/static/media/pin2.9b90ee1d9194ba5d671d.png",
+    "static/media/w1.png": "/E-commerce/static/media/w1.0e154f195037967e8dae.png",
+    "static/media/p1.jpg": "/E-commerce/static/media/p1.8b3dee0c2910a0642e2e.jpg",
+    "static/media/pm.jpg": "/E-commerce/static/media/pm.82ca4bcf89ae905ffc1b.jpg",
+    "static/media/p2.jpg": "/E-commerce/static/media/p2.8775ed3a2534b4bccb48.jpg",
+    "static/media/u1.jpg": "/E-commerce/static/media/u1.ba41b5eb3f229f24b71b.jpg",
+    "static/media/icon.png": "/E-commerce/static/media/icon.e9b09087a9cb1f41c7ad.png",
+    "static/media/baby3.jpeg": "/E-commerce/static/media/baby3.1df8bc424ac40a1decd4.jpeg",
+    "static/media/shi.jpg": "/E-commerce/static/media/shi.cf110978620238fe4ab1.jpg",
+    "static/media/happy.jpg": "/E-commerce/static/media/happy.75231f20b8550fd9b05e.jpg",
+    "static/media/hand.png": "/E-commerce/static/media/hand.823b325aca01d14093b0.png",
+    "static/media/shirt5.jpg": "/E-commerce/static/media/shirt5.48eac2a4e4ffbe88b78d.jpg",
+    "static/media/jace.jpg": "/E-commerce/static/media/jace.814c3c26c6e23523f3d1.jpg",
+    "static/media/drop.png": "/E-commerce/static/media/drop.d9c9fcf4d1b7cba243f2.png",
+    "static/media/A1.png": "/E-commerce/static/media/A1.ca9cb588a821811da316.png",
+    "index.html": "/E-commerce/index.html",
+    "main.56f5eff3.css.map": "/E-commerce/static/css/main.56f5eff3.css.map",
+    "main.113e7167.js.map": "/E-commerce/static/js/main.113e7167.js.map",
+    "453.7525acb4.chunk.js.map": "/E-commerce/static/js/453.7525acb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56f5eff3.css",
+    "static/js/main.113e7167.js"
+  ]
+}
